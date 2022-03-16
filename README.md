@@ -1,2 +1,1 @@
-# BigHugeServer-Side
-Big Big Huge server side  progrem (shop) use nodejs
+[Link to my shop site](https://shop2yiz.netlify.app)
